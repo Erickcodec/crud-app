@@ -1,0 +1,16 @@
+/* Colors */
+:root {
+  --darkest-purple: #0f0f2d;
+  --grayish-purple: #555a88;
+  --gray-600: #212121;
+  --gray-500: #302f2f;
+  --gray-300: #bdbdbd;
+  --gray-200: #c3c1c1;
+  --gray-100: #d3d3d3;
+  --gray-50: #e5e5e5;
+  --gray-25: #f9fafc;
+  --white: #ffffff;
+  --black: #000000;
+  --red: #bf1650;
+  --pink: #d85d5d;
+}

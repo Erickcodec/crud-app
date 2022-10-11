@@ -1,0 +1,36 @@
+.main__wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.main__header {
+  flex: 1;
+  margin-top: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main__title {
+  font-size: 3.125rem;
+  font-weight: 700;
+  line-height: 3.815625rem;
+  color: var(--darkest-purple);
+}
+
+.main__cta {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.171875rem;
+  color: var(--white);
+  background-color: var(--grayish-purple);
+  padding: 0.875rem 1rem 0.875rem 2rem;
+  cursor: pointer;
+}
+
+.main__cta > .icon {
+  height: 1.125rem;
+  margin-right: 0.75rem;
+}

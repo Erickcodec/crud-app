@@ -1,0 +1,23 @@
+.empty {
+  width: 100%;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.empty__img {
+  height: 8rem;
+  margin: 2rem 0;
+}
+
+.empty__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--gray-500);
+  margin-bottom: 1rem;
+}
+
+.empty__description {
+  font-size: 1.125rem;
+  color: var(--gray-500);
+  white-space: 0.025rem;
+}
